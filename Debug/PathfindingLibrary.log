@@ -1,0 +1,4 @@
+﻿  Pathfinding.cpp
+F:\Game Development\Personal Projects\C++\Libraries\PathfindingLibrary\Pathfinding.cpp(463,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Game Development\Personal Projects\C++\Libraries\PathfindingLibrary\Pathfinding.cpp(532,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  PathfindingLibrary.vcxproj -> F:\Game Development\Personal Projects\C++\Libraries\PathfindingLibrary\Debug\PathfindingLibrary.lib
